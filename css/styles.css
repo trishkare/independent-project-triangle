@@ -3,6 +3,9 @@ h1{
   font-family: monospace;
   color: red;
 }
+img{
+  float: left;
+}
 h2{
   font-size: 23px;
   font-family: monospace;
