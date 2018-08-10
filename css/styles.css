@@ -1,8 +1,12 @@
 h1{
-  color: green;
-  text-align: center;
+  font-size: 25px;
+  font-family: monospace;
+  color: red;
+}
+body{
+  background-color: pink;
 }
 p{
-  font-size: 17px;
-  line-height: normal;
+  font-size: 15px
+  color:inherit;
 }
