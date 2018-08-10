@@ -7,6 +7,7 @@
 * gh pages
 * cd independent-project
 * atom
+https://trishkare.github.io/independent-project-triangle/
 {You will be required to download the atom application.}
 ## Known Bugs
 {there are no issues with this application. Although it is recommended that you have Linux }
