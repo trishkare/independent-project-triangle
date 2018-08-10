@@ -1,8 +1,24 @@
 h1{
   font-size: 25px;
   font-family: monospace;
+  color: blue;
+}
+h2{
+  font-size: 23px;
+  font-family: monospace;
   color: red;
 }
+h3{
+  font-size: 23px;
+  font-family: monospace;
+  color: red;
+}
+h4{
+  font-size: 23px;
+  font-family: monospace;
+  color: red;
+}
+
 body{
   background-color: pink;
 }
