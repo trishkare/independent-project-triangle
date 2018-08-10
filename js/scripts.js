@@ -6,3 +6,5 @@ if(a==b && b==c)
 alert("Equilateral");
 
 else if((a==b && b!=c ) || (a!=b && c==a) || (c==b && c!=a) )alert("Isosceles");
+
+else if(a!=b && b!=c && c!=a)alert("Scalene");
