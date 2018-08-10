@@ -2,7 +2,7 @@
 ####  August, 10,2018
 #### By **Patricia Lubega**
 ## Description
-This page when opened will take you to an website which has a picture for a background.The website has quite a number of prompts which will require you to type in values. The values you key in will be determined as to what type of triangle it is and if it is not a triangle at all it will inform you by an alert. Also in the background there is a photo and detailed information about the thre type of triangles.
+This page when opened will take you to an website which has a picture for a background.The website has quite a number of prompts which will require you to type in values. The values you key in will be determined as to what type of triangle it is and if it is not a triangle at all it will inform you by an alert. Also in the background there is a photo and detailed information about the thre type of triangles.Also in the background there is a photo and detailed information about the thre type of triangles.
 ## Setup/Installation Requirements
 * gh pages
 * cd independent-project
