@@ -8,6 +8,7 @@ This page when opened will take you to an website which has a picture for a back
 * cd independent-project
 * atom
 You will be required to download the atom application.
+https://trishkare.github.io/independent-project-triangle/
 ## Known Bugs
 there are no issues with this application. Although it is recommended that you have Linux 
 ## Technologies Used
